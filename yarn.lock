@@ -1007,6 +1007,20 @@
   dependencies:
     "@iconify/types" "*"
 
+"@iconify-json/mdi@^1.1.68":
+  version "1.1.68"
+  resolved "https://registry.yarnpkg.com/@iconify-json/mdi/-/mdi-1.1.68.tgz#478afe1d75780cb9a1bd5854fb457eccb0f1053d"
+  integrity sha512-7//TKCiXLU6kNWeOJRTBbisofVO7rF1sD1TZTL4/V9nqlmVNczQ5IOY0GgKOTsitkcTnX9GXgrgbjw3OI5B69w==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify-json/solar@^1.1.10":
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/@iconify-json/solar/-/solar-1.1.10.tgz#5032a157508a0fb74f2a4beac56b1a577470609d"
+  integrity sha512-g+p9GbYrzfLkbcbs+TwBr42YvUeRgNUbVv0ZRi464MvlTWN9B/ekgFZszbIBqgjQT9GjfToQQLP6GOmDPDhLNw==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify/collections@^1.0.425", "@iconify/collections@^1.0.453":
   version "1.0.453"
   resolved "https://registry.yarnpkg.com/@iconify/collections/-/collections-1.0.453.tgz#3899c7b8fb92934bb80bb59cab2f361842a148da"
